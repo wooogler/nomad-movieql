@@ -1,0 +1,22 @@
+{
+  "name": "nomad-movieql",
+  "version": "1.0.0",
+  "description": "Movie server with GraphQL Yoga",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wooogler/nomad-movieql.git"
+  },
+  "author": "Wooogler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wooogler/nomad-movieql/issues"
+  },
+  "homepage": "https://github.com/wooogler/nomad-movieql#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
