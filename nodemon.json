@@ -1,0 +1,4 @@
+{
+  "watch": ["graphql/", "index.js"],
+  "ext": "js, css"
+}
